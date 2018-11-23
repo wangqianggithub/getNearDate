@@ -59,4 +59,8 @@ function getNearDate(n){
             return final;
     }
 
+    //获取前15个月的年份，月份
     getNearDate(-15);
+
+    //获取后5个月的年份，月份
+    getNearDate(5);
